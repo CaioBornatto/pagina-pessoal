@@ -1,0 +1,8 @@
+Olá professor! Para rodar o programa localmente abra o prompt de comando e navegue até a pasta src e em seguida rode o seguinte comando:
+npm run dev, em seguida em seu navegador digite: localhost:3000. Recomendo utilizar o Visual Studio code.
+ 
+ Tecnologias usadas:
+ -Java Script
+ -NodeJS
+ -HTML5
+ -GIT
